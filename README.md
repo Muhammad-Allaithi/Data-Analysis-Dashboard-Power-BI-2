@@ -18,3 +18,11 @@ Developed an interactive Power BI dashboard to analyze Super Store sales data ac
 
 
 Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI-2/blob/main/Screenshot%202024-10-30%20194722.png">View Dashboard</a>
+
+## Process
+
+- Data Cleaning and Preparation: Collected, cleaned, and standardized sales, order, and shipment data to ensure consistency and accuracy.
+- Segmentation: Organized data by dimensions like payment mode, region, customer segment, and product category for targeted insights.
+- Visualization: Used diverse visual elements (charts, graphs, maps) to effectively present sales trends, payment methods, and geographic performance.
+- Year-over-Year Analysis: Included monthly comparisons between 2019 and 2020 for tracking growth and seasonal trends.
+- Interactive Filtering and KPI Tracking: Enabled drill-downs through filters and highlighted KPIs (total sales, profit, etc.) for adaptable analysis and quick insights.
