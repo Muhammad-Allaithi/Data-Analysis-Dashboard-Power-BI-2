@@ -26,3 +26,20 @@ Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysi
 - Visualization: Used diverse visual elements (charts, graphs, maps) to effectively present sales trends, payment methods, and geographic performance.
 - Year-over-Year Analysis: Included monthly comparisons between 2019 and 2020 for tracking growth and seasonal trends.
 - Interactive Filtering and KPI Tracking: Enabled drill-downs through filters and highlighted KPIs (total sales, profit, etc.) for adaptable analysis and quick insights.
+
+## Dashboard
+
+![Screenshot 2024-10-30 194722](https://github.com/user-attachments/assets/37981e60-84de-4fe5-bf03-01b061ef2ddb)
+
+## Project Insights
+
+- Sales Trends by Month.
+- Top-Performing Regions and Segments.
+- Preferred Payment Methods.
+- Product Category Performance.
+- Shipping and Profit Analysis by State.
+
+## Final Conclusion
+
+In conclusion, this sales dashboard provides a comprehensive view of key performance metrics, identifying trends, regional strengths, and customer preferences across payment, product categories, and shipping methods. By visualizing these metrics, the dashboard aids in data-driven decision-making, highlighting areas for growth, potential operational improvements, and targeted marketing opportunities. Overall, this project enables better business insights, fostering a more strategic approach to maximizing sales and profitability.
+
