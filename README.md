@@ -17,3 +17,4 @@ Developed an interactive Power BI dashboard to analyze Super Store sales data ac
 - Which states are contributing the most to sales and profit?
 
 
+Dashboard Interaction <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard-Power-BI-2/blob/main/Screenshot%202024-10-30%20194722.png">View Dashboard</a>
